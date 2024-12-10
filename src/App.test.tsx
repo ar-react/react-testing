@@ -24,7 +24,6 @@ describe("App", () => {
     it("should render a Vite link", () => {
       const { container } = render(<App />);
       const viteLogo = container.querySelector("a[href='https://vite.dev']");
-      //   console.log(container);
       expect(viteLogo).toBeInTheDocument();
     });
 
