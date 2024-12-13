@@ -20,7 +20,7 @@ _This is sample React App created using Vite (TypeScript) and contains below men
 npm i -D jest@29.7.0 jest-environment-jsdom@29.7.0
 ts-jest@29.2.3 ts-node@10.9.2 identity-obj-proxy@3.0.0
 @testing-library/jest-dom@6.4.8 @testing-library/react@16.0.0
-@types/jest@29.5.12 @testing-library/user-event@14.5.2
+@types/jest@29.5.12 @testing-library/user-event@14.5.2 @testing-library/dom@10.4.0
 ```
 
 > Note: When following this guide, it's important to use the specified versions of the packages to avoid potential issues. If you choose to use different versions, please refer to the package changelogs to ensure compatibility and prevent any unexpected problems..
